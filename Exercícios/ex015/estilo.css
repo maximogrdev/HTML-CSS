@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* @charset é uma regra para resolver problemas com acentuação. sempre que ver o @ iniciando o CSS, significa que uma regra foi aplicada*/
+
+    body{
+        background-color: red;
+    }
+    h1{
+        background-color: black;
+        color: aqua;
+        text-align: center;
+    }
+    p,a{
+        color: black;
+        text-align: center;
+    }
+    h2{
+        background-color: blue;
+        margin-right: 90%;
+    }
